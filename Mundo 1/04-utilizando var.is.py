@@ -1,0 +1,7 @@
+var = str(input('Digite algo: '))
+print('TRUE = VERDADEIRO\nFALSE = FALSO')
+print(f'A palavra tem apenas numeros ou letras? {var.isalnum()}')
+print(f'A palavra tem apenas letras? ? {var.isalpha()}')
+print(f'A palavra tem apenas decimais? ? {var.isdecimal()}')
+print(f'Nessa string só existe digitos? {var.isdigit()}')
+print(f'Nessa string todos os caracteres são minusculos? {var.islower()}')

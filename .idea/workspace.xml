@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9fdb028-fe1a-4228-ae49-f1828ad13f01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Curso em Video Python" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ex109/109-.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Mundo 3/72- Lendo Numero por Extenso.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Mundo 3/79-Valores Unicos em uma Lista.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1meVfcPbcmQZc2pWf6QoNkdPh32" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python" />
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\ex109" />
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\ex108" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\ex115\lib" />
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\ex115\lib\interface" />
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\ex111\utilidades" />
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\Mundo 1" />
+      <recent name="C:\Users\ti.infra\Desktop\Curso em Video Python\ex107" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sistema">
+    <configuration name="115" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso em Video Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/115.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso em Video Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115/menu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/menu/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso em Video Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso em Video Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/sistema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso em Video Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.115" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.menu" />
+      <item itemvalue="Python.sistema" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.menu" />
+        <item itemvalue="Python.115" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9fdb028-fe1a-4228-ae49-f1828ad13f01" name="Default Changelist" comment="" />
+      <created>1609854150626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609854150626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="0" key="#108-" timestamp="1609858931318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="0" key="#108-/0.0.1366.728@0.0.1366.728" timestamp="1609858931318" />
+    <state x="339" y="0" key="#109-" timestamp="1609860655595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="0" key="#109-/0.0.1366.728@0.0.1366.728" timestamp="1609860655595" />
+    <state x="175" y="0" key="#Inspections" timestamp="1609948141399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1609948141399" />
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609959201060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1609959201060" />
+    <state x="363" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610048353873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="139" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610048353873" />
+    <state x="350" y="53" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610109732223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="53" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610109732223" />
+    <state width="1339" height="233" key="GridCell.Tab.0.bottom" timestamp="1610132727234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610132727234" />
+    <state width="1339" height="233" key="GridCell.Tab.0.center" timestamp="1610132727234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610132727234" />
+    <state width="1339" height="233" key="GridCell.Tab.0.left" timestamp="1610132727233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610132727233" />
+    <state width="1339" height="233" key="GridCell.Tab.0.right" timestamp="1610132727234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610132727234" />
+    <state width="1339" height="182" key="GridCell.Tab.1.bottom" timestamp="1610109214487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="182" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610109214487" />
+    <state width="1339" height="182" key="GridCell.Tab.1.center" timestamp="1610109214487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="182" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610109214487" />
+    <state width="1339" height="182" key="GridCell.Tab.1.left" timestamp="1610109214487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="182" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610109214487" />
+    <state width="1339" height="182" key="GridCell.Tab.1.right" timestamp="1610109214487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="182" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610109214487" />
+    <state x="68" y="0" key="SettingsEditor" timestamp="1609854253848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="68" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609854253848" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1609858642974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609858642974" />
+  </component>
+</project>
